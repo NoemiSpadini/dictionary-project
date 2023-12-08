@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "./colored_logo.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
